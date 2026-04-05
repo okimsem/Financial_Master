@@ -1,5 +1,6 @@
-{
-  "version": "v2.0.0",
-  "notes": "재무관리 차입금 기능추가",
-  "exe_url": "https://github.com/okimsem/Financial_Master/releases/download/v2.0.0/Financial_Master_v2.0.0.exe"
+json{
+  "version": "3.14",
+  "filename": "foosung_v3_14.py",
+  "changelog": "아코디언 사이드바, 자동업데이트 추가",
+  "download_url": "foosung_v3_14.py"
 }
